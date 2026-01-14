@@ -2,7 +2,7 @@
 Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation
 
 
-![Rendering results across episodes](Supplementary_Video_S1.gif)
+![Rendering results across episodes](gym_env.gif)
 
 This repository contains the official implementation of the paper.
 
